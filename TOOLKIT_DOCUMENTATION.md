@@ -954,8 +954,8 @@ This toolkit has introduced you to Rust programming, from installation to writin
 
 ---
 
-**Project Repository:** [GitHub link to be added]  
-**Contact:** [Your contact info]  
+**Project Repository:** https://github.com/MutsumiNgala/RUST-CAPSTONE-PROJECT  
+**Contact:**nathanngala8@gmail.com  
 **License:** MIT
 
 🦀 Happy Rust Programming! 🦀
