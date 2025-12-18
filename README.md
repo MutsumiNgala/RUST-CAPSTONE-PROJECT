@@ -11,7 +11,7 @@
 
 This repository contains a complete beginner's toolkit for learning Rust programming language. Created as part of the Moringa School Capstone Project, it includes working code examples, comprehensive documentation, and a step-by-step guide to help anyone get started with Rust.
 
-### 🎯 What You'll Learn
+###  What You'll Learn
 
 - How to install and set up Rust on your system
 - Writing your first Rust program (Hello World)
