@@ -29,7 +29,6 @@ choose it over other languages like C++ or Java. Keep it beginner-friendly.
 
 **Expected Response:** Overview of Rust's memory safety, performance, concurrency features
 
-**Curriculum Link:** https://ai.moringaschool.com/learn/rust-introduction
 
 ---
 
@@ -43,7 +42,6 @@ or projects using Rust and what they use it for.
 
 **Expected Response:** List of applications (systems programming, web services, blockchain, etc.)
 
-**Curriculum Link:** https://ai.moringaschool.com/learn/rust-applications
 
 ---
 
@@ -56,8 +54,6 @@ shifts I need to understand when learning Rust?
 ```
 
 **Expected Response:** Ownership vs garbage collection, static vs dynamic typing, etc.
-
-**Curriculum Link:** https://ai.moringaschool.com/learn/rust-vs-other-languages
 
 ---
 
@@ -73,7 +69,6 @@ how to verify the installation was successful.
 
 **Expected Response:** rustup installation command, PATH configuration, verification steps
 
-**Curriculum Link:** https://ai.moringaschool.com/setup/rust-ubuntu
 
 ---
 
@@ -87,7 +82,6 @@ What additional tools do I need?
 
 **Expected Response:** Visual Studio Build Tools requirement, rustup-init.exe process
 
-**Curriculum Link:** https://ai.moringaschool.com/setup/rust-windows
 
 ---
 
@@ -101,7 +95,6 @@ what extensions should I install and how do I configure them?
 
 **Expected Response:** rust-analyzer recommendation, VS Code setup, configuration tips
 
-**Curriculum Link:** https://ai.moringaschool.com/setup/rust-ide
 
 ---
 
@@ -114,8 +107,6 @@ and updating my project dependencies?
 ```
 
 **Expected Response:** rustup update command, Cargo.toml dependency management
-
-**Curriculum Link:** https://ai.moringaschool.com/setup/rust-maintenance
 
 ---
 
@@ -131,7 +122,6 @@ what each part does. Also explain how to compile and run it.
 
 **Expected Response:** Basic main function, println! macro, compilation steps
 
-**Curriculum Link:** https://ai.moringaschool.com/basics/hello-world
 
 ---
 
@@ -145,7 +135,6 @@ strings, booleans, etc.). Explain the syntax with inline comments.
 
 **Expected Response:** let statements, type annotations, mutability
 
-**Curriculum Link:** https://ai.moringaschool.com/basics/variables
 
 ---
 
@@ -159,7 +148,6 @@ Show me different ways to format output with println!.
 
 **Expected Response:** println! macro with {}, format strings, debugging output
 
-**Curriculum Link:** https://ai.moringaschool.com/basics/output-formatting
 
 ---
 
@@ -175,8 +163,6 @@ return values, and different function signatures.
 
 **Expected Response:** fn keyword, parameter types, return type syntax, return statement
 
-**Curriculum Link:** https://ai.moringaschool.com/syntax/functions
-
 ---
 
 ### Prompt 4.2: Ownership and Borrowing
@@ -188,8 +174,6 @@ What are the basic rules I need to remember?
 ```
 
 **Expected Response:** Ownership rules, borrowing, references, move semantics
-
-**Curriculum Link:** https://ai.moringaschool.com/concepts/ownership
 
 ---
 
@@ -203,7 +187,6 @@ When should I use each one?
 
 **Expected Response:** Immutability by default, mut keyword, const vs let
 
-**Curriculum Link:** https://ai.moringaschool.com/syntax/mutability
 
 ---
 
@@ -217,7 +200,6 @@ for different scenarios including error handling.
 
 **Expected Response:** match expression, arms, exhaustiveness, Result/Option handling
 
-**Curriculum Link:** https://ai.moringaschool.com/syntax/pattern-matching
 
 ---
 
@@ -233,7 +215,6 @@ user's name and greets them.
 
 **Expected Response:** std::io module, read_line, String handling
 
-**Curriculum Link:** https://ai.moringaschool.com/interactive/user-input
 
 ---
 
@@ -247,7 +228,6 @@ errors if they enter invalid data?
 
 **Expected Response:** parse() method, Result type, match for error handling
 
-**Curriculum Link:** https://ai.moringaschool.com/concepts/error-handling
 
 ---
 
@@ -262,7 +242,6 @@ division by zero.
 
 **Expected Response:** Complete calculator with menu, functions, error handling
 
-**Curriculum Link:** https://ai.moringaschool.com/projects/calculator
 
 ---
 
@@ -278,7 +257,6 @@ Explain like I'm coming from Python's pip or Node's npm.
 
 **Expected Response:** Cargo as package manager, project structure, common commands
 
-**Curriculum Link:** https://ai.moringaschool.com/tools/cargo-basics
 
 ---
 
@@ -292,7 +270,7 @@ difference between 'cargo build', 'cargo run', and 'cargo check'.
 
 **Expected Response:** Command explanations, when to use each, optimization flags
 
-**Curriculum Link:** https://ai.moringaschool.com/tools/cargo-commands
+
 
 ---
 
@@ -306,7 +284,6 @@ What is Cargo.toml for?
 
 **Expected Response:** Directory layout, Cargo.toml sections, modules
 
-**Curriculum Link:** https://ai.moringaschool.com/tools/project-structure
 
 ---
 
@@ -320,7 +297,6 @@ Show me an example of adding and using a dependency.
 
 **Expected Response:** Cargo.toml dependencies section, use statements, crates.io
 
-**Curriculum Link:** https://ai.moringaschool.com/tools/dependencies
 
 ---
 
@@ -336,8 +312,6 @@ What does this mean and how do I fix it?
 
 **Expected Response:** Borrowing rules explanation, scoping solution, practical fix
 
-**Curriculum Link:** https://ai.moringaschool.com/debug/borrow-errors
-
 ---
 
 ### Prompt 7.2: Linker Errors
@@ -349,8 +323,6 @@ and how do I fix it?
 ```
 
 **Expected Response:** C compiler requirement, build-essential installation
-
-**Curriculum Link:** https://ai.moringaschool.com/debug/linker-errors
 
 ---
 
@@ -364,7 +336,6 @@ error means and how to fix it in Rust.
 
 **Expected Response:** Type mismatch explanation, type conversion, parsing
 
-**Curriculum Link:** https://ai.moringaschool.com/debug/type-errors
 
 ---
 
@@ -378,7 +349,6 @@ on a `None` value'". What's happening and how should I handle this properly?
 
 **Expected Response:** Option type explanation, match vs unwrap, safe handling
 
-**Curriculum Link:** https://ai.moringaschool.com/debug/panic-handling
 
 ---
 
@@ -393,8 +363,6 @@ How does Rust's module system work? How do I split my code into multiple files?
 
 **Expected Response:** mod keyword, pub visibility, file structure
 
-**Curriculum Link:** https://ai.moringaschool.com/structure/modules
-
 ---
 
 ### Prompt 8.2: Testing
@@ -405,8 +373,6 @@ How do I write tests in Rust? Show me examples of unit tests and how to run them
 ```
 
 **Expected Response:** #[test] attribute, assert macros, cargo test
-
-**Curriculum Link:** https://ai.moringaschool.com/structure/testing
 
 ---
 
@@ -419,8 +385,6 @@ from my comments?
 ```
 
 **Expected Response:** /// comments, cargo doc, documentation best practices
-
-**Curriculum Link:** https://ai.moringaschool.com/structure/documentation
 
 ---
 
@@ -535,9 +499,7 @@ Show me both a basic version and a more idiomatic version.
 
 ## 🔗 All Curriculum Links
 
-**Note:** Replace `ai.moringaschool.com` with your actual AI learning platform URL.
-
-All prompts were used with: https://ai.moringaschool.com
+All prompts were used with: https://claude.ai/
 
 This platform provided:
 - Context-aware responses
@@ -547,11 +509,6 @@ This platform provided:
 
 ---
 
-## ⏱️ Time Saved Using AI
-
-**Estimated time without AI:** 12-15 hours  
-**Actual time with AI:** 5-6 hours  
-**Time saved:** 6-9 hours (50-60% reduction)
 
 **How AI helped:**
 - Instant answers to specific questions
@@ -562,6 +519,4 @@ This platform provided:
 
 ---
 
-**Last Updated:** December 18, 2024  
-**Total Prompts Used:** 30+  
-**Average Response Quality:** ⭐⭐⭐⭐⭐ (4.5/5)
+
