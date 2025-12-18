@@ -38,7 +38,7 @@ rust-capstone-project/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -120,7 +120,7 @@ For the complete learning guide, including:
 
 ---
 
-## 🎓 Learning Path
+##  Learning Path
 
 1. **Start here:** Read `TOOLKIT_DOCUMENTATION.md` sections 1-4 for setup
 2. **First program:** Run `hello_world.rs`
@@ -224,7 +224,7 @@ To enhance your Rust development experience:
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -285,13 +285,13 @@ This is a learning project, but suggestions and improvements are welcome!
 **Technology:** Rust Programming Language  
 **Created:** December 2024  
 **Purpose:** Moringa School Capstone Project  
-**Learning Approach:** AI-assisted learning using Claude AI
+
 
 
 
 ---
 
-## 🎯 Next Steps After This Project
+##  Next Steps After This Project
 
 Once you're comfortable with the basics:
 
