@@ -325,14 +325,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Author:** [Your Name]  
-**Email:** [Your Email]  
-**GitHub:** [Your GitHub Profile]  
-**Project Link:** [This Repository URL]
+**Author:** Mutsumi Nathan Ngala  
+**Email:** nathanngala8@gmail.com  
+**GitHub:** https://github.com/MutsumiNgala  
+**Project Link:** https://github.com/MutsumiNgala/RUST-CAPSTONE-PROJECT
 
 ---
 
-## ⭐ Found This Helpful?
 
 If this toolkit helped you learn Rust, please:
 - ⭐ Star this repository
@@ -344,4 +343,4 @@ If this toolkit helped you learn Rust, please:
 
 **Happy Rust Programming! 🦀**
 
-*"Fearless concurrency, memory safety, and blazing speed - that's Rust!"*
+
