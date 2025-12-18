@@ -1,17 +1,17 @@
 # Getting Started with Rust Programming – A Beginner's Guide
 
-**Author:** Moringa School Capstone Project  
-**Date:** December 18, 2024  
+**Author:** Mutsumi Nathan Ngala   
+**Date:** December 18, 2025  
 **Technology:** Rust Programming Language
 
 ---
 
 ## 1. Title & Objective
 
-### What technology did you choose?
+### What technology did i choose?
 **Rust** - A modern systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
 
-### Why did you choose it?
+### Why did i choose it?
 I chose Rust because:
 - It's gaining massive popularity in systems programming (used by Microsoft, Amazon, Google)
 - It offers memory safety without garbage collection
@@ -413,8 +413,6 @@ This section documents all AI prompts used during the learning process and their
 **AI Response Summary:**  
 The AI explained that Rust is a systems programming language focused on safety, speed, and concurrency. It highlighted memory safety without garbage collection, zero-cost abstractions, and fearless concurrency as key features. The response also mentioned Rust's growing adoption in industry.
 
-**Curriculum Reference:**  
-[Introduction to Rust](https://ai.moringaschool.com) - Initial learning prompt
 
 **Evaluation:**  
 ⭐⭐⭐⭐⭐ (5/5) - Excellent. The explanation was clear and helped me understand Rust's unique value proposition compared to other languages I already know.
@@ -429,8 +427,6 @@ The AI explained that Rust is a systems programming language focused on safety, 
 **AI Response Summary:**  
 The AI provided the rustup installation command, explained what rustup is (Rust's toolchain installer), and gave verification commands. It also mentioned how to update Rust in the future.
 
-**Curriculum Reference:**  
-[Rust Installation Guide](https://ai.moringaschool.com) - Setup and configuration
 
 **Evaluation:**  
 ⭐⭐⭐⭐⭐ (5/5) - Perfect. The instructions were precise and worked exactly as described. The AI also mentioned potential issues with PATH configuration.
@@ -445,8 +441,6 @@ The AI provided the rustup installation command, explained what rustup is (Rust'
 **AI Response Summary:**  
 The AI provided a clean Hello World example with comments explaining `fn main()`, `println!` macro, and string interpolation. It showed both direct compilation with `rustc` and the Cargo workflow.
 
-**Curriculum Reference:**  
-[First Rust Program](https://ai.moringaschool.com) - Hello World example
 
 **Evaluation:**  
 ⭐⭐⭐⭐☆ (4/5) - Very good. The code worked perfectly, but I had to ask a follow-up question about the difference between `rustc` and `cargo`.
@@ -461,8 +455,6 @@ The AI provided a clean Hello World example with comments explaining `fn main()`
 **AI Response Summary:**  
 The AI explained Cargo as Rust's "package manager + build tool + test runner" all in one. It compared it to pip+virtualenv for Python or npm+webpack for Node.js. Provided commands for creating projects, adding dependencies, and building.
 
-**Curriculum Reference:**  
-[Understanding Cargo](https://ai.moringaschool.com) - Build system explanation
 
 **Evaluation:**  
 ⭐⭐⭐⭐⭐ (5/5) - Excellent analogy to tools I already know. The comparison to npm/pip made it immediately clear.
@@ -477,8 +469,6 @@ The AI explained Cargo as Rust's "package manager + build tool + test runner" al
 **AI Response Summary:**  
 The AI provided a complete calculator implementation with separate functions for each operation, pattern matching for the menu, and error handling using `match` and `expect()`. It explained the `std::io` module for user input.
 
-**Curriculum Reference:**  
-[Interactive Rust Programs](https://ai.moringaschool.com) - User input and functions
 
 **Evaluation:**  
 ⭐⭐⭐⭐⭐ (5/5) - Outstanding. This really helped me understand Rust's approach to error handling and pattern matching. The code was well-structured and educational.
@@ -493,8 +483,6 @@ The AI provided a complete calculator implementation with separate functions for
 **AI Response Summary:**  
 The AI explained Rust's borrowing rules and ownership system. It clarified that the error occurs when trying to use a variable after it's been moved or borrowed. Provided the fix: limiting the scope of borrows and understanding move semantics.
 
-**Curriculum Reference:**  
-[Troubleshooting Compilation Errors](https://ai.moringaschool.com) - Debugging assistance
 
 **Evaluation:**  
 ⭐⭐⭐⭐☆ (4/5) - Very helpful. Ownership is a tricky concept, and the AI's explanation made it clearer, though I needed to read it twice to fully understand.
@@ -509,8 +497,6 @@ The AI explained Rust's borrowing rules and ownership system. It clarified that 
 **AI Response Summary:**  
 The AI recommended rust-analyzer as the essential extension, along with CodeLLDB for debugging. Explained how to enable "check on save" and other useful settings. Mentioned that rust-analyzer replaced the older RLS extension.
 
-**Curriculum Reference:**  
-[IDE Setup for Rust](https://ai.moringaschool.com) - Development environment
 
 **Evaluation:**  
 ⭐⭐⭐⭐⭐ (5/5) - Perfect recommendations. rust-analyzer's autocomplete and inline error detection significantly improved my development experience.
@@ -525,8 +511,6 @@ The AI recommended rust-analyzer as the essential extension, along with CodeLLDB
 **AI Response Summary:**  
 The AI explained that `let` creates immutable variables (default in Rust), `let mut` creates mutable variables, and `const` creates compile-time constants. Emphasized Rust's "immutable by default" philosophy for safety.
 
-**Curriculum Reference:**  
-[Rust Variables and Mutability](https://ai.moringaschool.com) - Syntax fundamentals
 
 **Evaluation:**  
 ⭐⭐⭐⭐⭐ (5/5) - Clear and concise. The examples showing when to use each were particularly helpful.
@@ -915,7 +899,7 @@ Press `Ctrl+C` in the terminal to stop the program.
 
 ## 9. Next Steps & Further Learning
 
-Congratulations! You've completed the basics of Rust. Here's what to explore next:
+ You've completed the basics of Rust. Here's what to explore next:
 
 ### Beginner+ Topics:
 1. **Ownership and Borrowing** (Deep dive)
@@ -950,7 +934,6 @@ This toolkit has introduced you to Rust programming, from installation to writin
 - ✅ The Rust community is welcoming and helpful
 - ✅ AI tools can significantly accelerate learning
 
-**Remember:** Everyone finds Rust challenging at first. The compiler might seem strict, but it's helping you write better, safer code. Keep practicing, and don't hesitate to ask for help in the community!
 
 ---
 
