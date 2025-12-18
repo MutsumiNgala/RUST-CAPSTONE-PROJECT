@@ -287,12 +287,7 @@ This is a learning project, but suggestions and improvements are welcome!
 **Purpose:** Moringa School Capstone Project  
 **Learning Approach:** AI-assisted learning using Claude AI
 
-### Evaluation Criteria Met:
-- ✅ Clarity & completeness of documentation (30%)
-- ✅ Use of GenAI for learning (20%)
-- ✅ Functionality of examples (20%)
-- ✅ Testing & iteration (20%)
-- ✅ Creativity in chosen tech (10%)
+
 
 ---
 
